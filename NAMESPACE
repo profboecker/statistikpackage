@@ -2,5 +2,9 @@
 
 export(hello)
 export(mittelwert)
+export(oeffne_in_excel)
 export(standardabweichung)
+import(fs)
+import(readr)
 import(stats)
+import(stringr)
